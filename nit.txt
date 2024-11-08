@@ -1,1 +1,1 @@
-get the inout from the user !!!!!
+get the input from the user !!!!!
