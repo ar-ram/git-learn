@@ -1,1 +1,2 @@
 get the input from the user !!!!!
+2nd ly process the data that you got
