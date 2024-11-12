@@ -1,4 +1,4 @@
 get the input from the user !!!!!
 2nd ly process the data that you got
 
-owrking with the creation of avatar
+working with the creation of avatar
