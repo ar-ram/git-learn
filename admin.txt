@@ -1,0 +1,2 @@
+assign user and password
+change the rules and assign the roles
